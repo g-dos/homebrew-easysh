@@ -3,8 +3,8 @@ class Easysh < Formula
 
   desc "Human-friendly interactive shell that translates simple words into real commands"
   homepage "https://github.com/g-dos/easysh"
-  url "https://github.com/g-dos/easysh/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "52e1a2aa5133242c3982540493392f0981b81d1a90f825dde69ff9d3c8a796da"
+  url "https://github.com/g-dos/easysh/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "49beda6592ad4d8a631649663fb4ae865f77c4e815470d627f725cb8b0e3b3e1"
   license "MIT"
 
   depends_on "python@3.13"
